@@ -1,0 +1,1 @@
+cmd_/home/yuriy/Projects/eissbox3-LKM/ebox3relays/ebox3relays.mod := { echo  /home/yuriy/Projects/eissbox3-LKM/ebox3relays/ebox3relays.o; echo; } > /home/yuriy/Projects/eissbox3-LKM/ebox3relays/ebox3relays.mod

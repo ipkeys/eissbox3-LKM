@@ -1,0 +1,1 @@
+cmd_/home/yuriy/Projects/eissbox3-LKM/Ebox3char/ebox3char.ko := /opt/linaro/bin/arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/yuriy/Projects/eissbox3-LKM/Ebox3char/ebox3char.ko /home/yuriy/Projects/eissbox3-LKM/Ebox3char/ebox3char.o /home/yuriy/Projects/eissbox3-LKM/Ebox3char/ebox3char.mod.o;  true

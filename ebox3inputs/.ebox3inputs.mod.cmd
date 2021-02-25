@@ -1,0 +1,1 @@
+cmd_/home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.mod := { echo  /home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.o; echo; } > /home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.mod

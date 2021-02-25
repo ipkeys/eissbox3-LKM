@@ -1,0 +1,1 @@
+cmd_/home/yuriy/Projects/eissbox3-LKM/ebox3driver/ebox3driver.mod := { echo  /home/yuriy/Projects/eissbox3-LKM/ebox3driver/ebox3driver.o; echo; } > /home/yuriy/Projects/eissbox3-LKM/ebox3driver/ebox3driver.mod

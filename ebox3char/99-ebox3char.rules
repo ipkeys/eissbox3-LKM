@@ -1,0 +1,2 @@
+#Rules file for the device driver
+KERNEL=="ebox3char", SUBSYSTEM=="ebox3", MODE="0666"

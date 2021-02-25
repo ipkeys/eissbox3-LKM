@@ -1,0 +1,1 @@
+cmd_/home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.ko := /opt/linaro/bin/arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.ko /home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.o /home/yuriy/Projects/eissbox3-LKM/ebox3input/ebox3inputs.mod.o;  true
